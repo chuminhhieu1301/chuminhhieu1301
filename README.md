@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @chuminhhieu1301
-- 👀 I’m interested in marketing (-market research) using data analysis
-- 🌱 I’m currently learning DA and MKT domains
-- 💞️ I’m looking to collaborate on these subjects
+- 👋 Hi, I am @chuminhhieu1301
+- 👀 I am very interested in business using data analytics, especially software development services.
 - 📫 My mail: chuminhhieu1301@gmail.com 
 
 <!---
