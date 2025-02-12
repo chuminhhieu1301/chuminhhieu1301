@@ -1,5 +1,5 @@
-- 👋 Hi, I am @chuminhhieu1301
-- 👀 I am really interested in business using data analytics, especially software development services
+- 👋 Hi, I am @chuminhhieu1301.
+- 👀 I am really interested in business using data analytics, especially software development services.
 - 📫 My mail: chuminhhieu1301@gmail.com 
 
 <!---
